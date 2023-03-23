@@ -1,11 +1,11 @@
-About r-shinytest
-=================
+About r-shinytest-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinytest-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/rstudio/shinytest
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinytest-feedstock/blob/main/LICENSE.txt)
 
 Summary: For automated testing of Shiny applications, using a headless browser, driven through 'WebDriver'.
 
